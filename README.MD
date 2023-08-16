@@ -1,3 +1,5 @@
+# Monitoramento de sistema que coleta informações sobre o uso da CPU, memória e espaço em disco, e as exibe em um arquivo de log. 
+
 Para usar este script:
 
 1. Copie e cole o código acima em um arquivo chamado system_monitor.sh.
